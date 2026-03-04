@@ -1,9 +1,8 @@
 
 
 ```markdown
-# PROYECTO FINAL – ARQUITECTURA DE SOFTWARE  
 ## Gestión del Ciclo de Vida con Git & GitHub  
-## Comparativa Técnica: REST vs GraphQL
+## REST vs GraphQL
 
 
 ```
